@@ -1,5 +1,9 @@
 # interactive-final
 
+## 与18级合作项目网站链接（仅供参考）：http://jiayuluo.pythonanywhere.com
+
+# 我的个人项目链接html：http://nfunm012.gitee.io/visual_interactive_final
+
 ## 项目介绍
 
 通过目前中国吸烟人数的变化来探究其与中国受教育人数（中学，高等教育）和经济发展的关系
